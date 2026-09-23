@@ -14,7 +14,6 @@ dump.rdb
 .tox
 .cache/
 .idea/
-.vscode/
 .fleet/
 db.sqlite3
 config.py
